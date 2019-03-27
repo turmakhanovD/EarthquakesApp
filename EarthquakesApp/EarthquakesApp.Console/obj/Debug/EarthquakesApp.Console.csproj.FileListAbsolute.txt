@@ -1,0 +1,17 @@
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\bin\Debug\EarthquakesApp.Console.exe.config
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\bin\Debug\EarthquakesApp.Console.exe
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\bin\Debug\EarthquakesApp.Console.pdb
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\bin\Debug\EarthquakesApp.Models.dll
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\bin\Debug\EarthquakesApp.Services.Abstract.dll
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\bin\Debug\EarthquakesApp.Services.dll
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\bin\Debug\EarthquakesApp.Models.pdb
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\bin\Debug\EarthquakesApp.Services.Abstract.pdb
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\bin\Debug\EarthquakesApp.Services.pdb
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\obj\Debug\EarthquakesApp.Console.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\obj\Debug\EarthquakesApp.Console.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\obj\Debug\EarthquakesApp.Console.csproj.CopyComplete
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\obj\Debug\EarthquakesApp.Console.exe
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Console\obj\Debug\EarthquakesApp.Console.pdb

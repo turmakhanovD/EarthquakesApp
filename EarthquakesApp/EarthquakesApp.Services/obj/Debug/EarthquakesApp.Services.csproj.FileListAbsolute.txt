@@ -1,0 +1,9 @@
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Services\bin\Debug\EarthquakesApp.Services.dll
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Services\bin\Debug\EarthquakesApp.Services.pdb
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Services\bin\Debug\EarthquakesApp.Services.Abstract.dll
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Services\bin\Debug\EarthquakesApp.Services.Abstract.pdb
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Services\obj\Debug\EarthquakesApp.Services.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Services\obj\Debug\EarthquakesApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Services\obj\Debug\EarthquakesApp.Services.csproj.CopyComplete
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Services\obj\Debug\EarthquakesApp.Services.dll
+C:\Users\ТурмаханД\source\repos\EarthquakesApp.Console\EarthquakesApp.Services\obj\Debug\EarthquakesApp.Services.pdb
